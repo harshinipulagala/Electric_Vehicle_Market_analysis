@@ -43,7 +43,7 @@ Records: 247,336 electric vehicle registrations.
 
 📁 Files Included
 
-C:\Users\harsh\Downloads\Electric_Vehicle_Market_Analysis – Tableau packaged workbook
+ – Tableau packaged workbook
 ev_population_dataset.csv – Pre-processed dataset
 README.md – Project documentation
 screenshots/ – Dashboard snapshots for preview
