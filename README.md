@@ -32,21 +32,19 @@ Records: 247,336 electric vehicle registrations.
    Average Range by Vehicle Type (BEV vs PHEV)
 ✔️ Filters and Parameters
    Model Year Range
+   
    State Selection
+   
    Electric Vehicle Type
+   
   Top N Manufacturers (Dynamic parameter)
   
 🛠️ Tools Used
 
    Tableau – Dashboard development & data visualization
+   
    Excel / CSV – Dataset cleaning
 
-📁 Files Included
-
- – Tableau packaged workbook
-ev_population_dataset.csv – Pre-processed dataset
-README.md – Project documentation
-screenshots/ – Dashboard snapshots for preview
 
 ✅ Conclusion
 
@@ -57,7 +55,9 @@ This dashboard can help businesses, policymakers, and analysts make informed dec
 📬 Contact
 
 For queries or collaboration:  
+
 **Harshini Pulagala**  
+
 GitHub: harshinipulagala  
 
 Email: harshini.pulagala.137@gmail.com
