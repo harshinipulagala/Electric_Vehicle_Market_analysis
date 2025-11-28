@@ -9,6 +9,7 @@ It is designed to help stakeholders, analysts, and EV researchers understand mar
 🧩 Dataset
 
 Source: Kaggle – Electric Vehicle Population Data 2025
+
 Key Fields: Model Year, Make, Model, Electric Vehicle Type (BEV/PHEV), CAFV Eligibility, Range, State, and Price.
 Records: 247,336 electric vehicle registrations.
 
