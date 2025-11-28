@@ -16,10 +16,15 @@ Records: 247,336 electric vehicle registrations.
 🔍 Key Insights
 
 🚀 EV adoption increased rapidly after 2016, reaching its highest point in 2023.
+
 🌎 California leads the nation with the highest EV count (~246K), far ahead of all other states.
+
 🏆 Tesla is the dominant manufacturer, holding over 50% of total EV registrations.
+
 🔋 Battery Electric Vehicles (BEVs) have significantly higher electric range compared to Plug-in Hybrid Electric Vehicles (PHEVs).
+
 💰 Premium EVs cost more but surprisingly offer lower range compared to some mid-range models.
+
 🌱 Overall trend shows growing preference for BEVs due to better range and performance.
 
 📊 Dashboard Highlights
@@ -27,10 +32,15 @@ Records: 247,336 electric vehicle registrations.
 ✔️ KPIs at a glance - Total EVs, Total BEV & PHEV Count, % Share of BEV vs PHEV, Average Price, Average Electric Range
 ✔️ Visualizations Included :
    EV Growth Trend by Model Year
+   
    EV Distribution Across U.S. States (Map View)
+   
    Top 10 Manufacturers by EV Count
+   
    Range vs Price Analysis segmented by price category
+   
    Average Range by Vehicle Type (BEV vs PHEV)
+   
 ✔️ Filters and Parameters
 
    Model Year Range, State Selection, Electric Vehicle Type, Top N Manufacturers (Dynamic parameter)
