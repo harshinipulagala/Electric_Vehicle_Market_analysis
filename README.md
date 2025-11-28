@@ -32,20 +32,12 @@ Records: 247,336 electric vehicle registrations.
    Range vs Price Analysis segmented by price category
    Average Range by Vehicle Type (BEV vs PHEV)
 ✔️ Filters and Parameters
-   Model Year Range
-   
-   State Selection
-   
-   Electric Vehicle Type
-   
-  Top N Manufacturers (Dynamic parameter)
+
+   Model Year Range, State Selection, Electric Vehicle Type, Top N Manufacturers (Dynamic parameter)
   
 🛠️ Tools Used
 
-   Tableau – Dashboard development & data visualization
-   
-   Excel / CSV – Dataset cleaning
-
+   Tableau – Dashboard development & data visualization, Excel / CSV – Dataset cleaning
 
 ✅ Conclusion
 
