@@ -18,7 +18,7 @@
 
 🚀 EV adoption increased rapidly after 2016, reaching its highest point in 2023.
 
-🌎 California leads the nation with the highest EV count (~246K), far ahead of all other states.
+🌎 Washington leads the nation with the highest EV count (~246K), far ahead of all other states.
 
 🏆 Tesla is the dominant manufacturer, holding over 50% of total EV registrations.
 
